@@ -7,7 +7,7 @@ A két adatbázis megszerzése (egyik egy saját scraperrel, másik pedig egy m�
 a különböző, modellezéshez szükséges transzformációk, feature engineering elvégzése.
 
 ### 02_Leiro_statisztikak
-A kezdeti, feltáro adatelemzést asszisztáló statisztikák, ábrák.
+A kezdeti, feltáró adatelemzést asszisztáló statisztikák, ábrák.
 
 ### 03_RandomForest_full_process
 Minden modellezési lépés, ami Random Forestet használ 
